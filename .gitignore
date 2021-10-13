@@ -1,0 +1,35 @@
+# Default ignored files
+/shelf/
+/.idea
+/out
+# Datasource local storage ignored files
+/../../../../:\MyProjects\middle\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+/chapter_007/*.iml
+/chapter_007/target
+
+/chapter_008/*.iml
+/chapter_008/target
+
+/chapter_009/*.iml
+/chapter_009/target
+
+/chapter_010/*.iml
+/chapter_010/target
+
+/chapter_011/*.iml
+/chapter_011/target
+
+/chapter_012/*.iml
+/chapter_012/target
+
+/chapter_013/*.iml
+/chapter_013/target
+
+/chapter_014/*.iml
+/chapter_014/target
+
+/target
